@@ -1,5 +1,7 @@
 # HackerNews clone app
 
+You can see the app at (https://tlcodes.github.io/hnapp/build) (then click the menu items)
+
 Made with React and Redux, Axios for GET requests
 
 check out the [HackerNews API] (https://github.com/HackerNews/API) for more details
