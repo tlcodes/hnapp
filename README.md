@@ -1,6 +1,7 @@
 # HackerNews clone app
 
-You can see the app at https://tlcodes.github.io/hnapp/build (then click the menu items)
+Check out the app [HNapp live](https://tlcodes.github.io/hnapp/build) 
+Note: You need to click the menu items to fetch HackerNews stories.
 
 Made with React and Redux, Axios for GET requests
 
